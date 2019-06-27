@@ -1,0 +1,35 @@
+### General
+ctrl + shift + P	Open Command Palette
+ctrl + ,		Open Settings
+
+### File / Project managing
+ctrl + o 		Open File
+ctrl + w 		Close Tab
+ctrl + s		Save File
+ctrl + shift + S	Save file with new filename
+ctrl + shift + O	Open Project Folder
+ctrl + shift + A	Add Project Folder
+ctrl + ß		Open Project Structur
+ctrl + t		Find file within project
+ctrl + b		Find file within open files
+
+### Tab / Panel movement
+ctrl + k + n		Switch Panel
+ctrl + tab		Switch tab to recently used
+ctrl + PageDown		Switch to next tab
+
+### Linter - Autopep8
+ctrl + alt + s		Autocorrect for python
+
+### Within the file
+ctrl + #		Line Comments
+ctrl + ö		Line Indent
+ctrl + ä		Line Outdent
+ctrl + up		Move line with curser up
+ctrl + down		Move line down
+ctrl + l		Select line (markieren)
+ctrl + d		Find and replace selected word
+ctrl + Backwards	Delete current word	
+ctrl + u		Undo
+ctrl + m		bracket matcher (goes from bracket to bracket)
+

@@ -1,0 +1,44 @@
+{
+  "_from": "https://www.atom.io/api/packages/linter-python-pep8/versions/0.2.0/tarball",
+  "_id": "linter-python-pep8@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-1PvA1JuUGGe5BboW/rq3LgXch9Yteg/iFC0GjOYzdTtxz4Xf4sL42dZyKyj+4A6vArjvrYKKeXXSugQjs3lEIw==",
+  "_location": "/linter-python-pep8",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/linter-python-pep8/versions/0.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/linter-python-pep8/versions/0.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/linter-python-pep8/versions/0.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/linter-python-pep8/versions/0.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/linter-python-pep8/versions/0.2.0/tarball",
+  "_shasum": "583da473dc31b91e2825b2e42b31ac600049824d",
+  "_spec": "https://www.atom.io/api/packages/linter-python-pep8/versions/0.2.0/tarball",
+  "_where": "/tmp/apm-install-dir-119526-20603-1y3ehsi.2nef",
+  "activationEvents": [],
+  "bugs": {
+    "url": "https://github.com/bsnux/linter-python-pep8/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Linting Python files on the fly using pep8 command",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/bsnux/linter-python-pep8#readme",
+  "license": "MIT",
+  "linter-package": true,
+  "main": "./lib/init",
+  "name": "linter-python-pep8",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsnux/linter-python-pep8.git"
+  },
+  "version": "0.2.0"
+}

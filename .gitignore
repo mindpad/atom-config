@@ -1,0 +1,9 @@
+.apm/
+.atom-socket-secret-chris-1.38.2
+blob-store/
+compile-cache/
+github.cson
+.node-gyp/
+nohup.out
+recovery/
+storage/

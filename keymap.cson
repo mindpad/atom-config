@@ -1,0 +1,8 @@
+# Folder Structur
+'.platform-win32, .platform-linux': 'ctrl-ß':'tree-view:toggle'
+
+# Comment / Indent / Outdent
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-#': 'editor:toggle-line-comments'
+  'ctrl-ö': 'editor:indent-selected-rows'
+  'ctrl-ä': 'editor:outdent-selected-rows'
