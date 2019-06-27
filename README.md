@@ -1,6 +1,6 @@
 ### Atom config and keymap (qwertz layout (german)) ###
 
-Git repository for [Atom Editor](https://atom.io/) configuration. Mostly Used for python.
+Git repository for [Atom Editor](https://atom.io/) configuration. Mostly used for python.
 
 ## Installation ##
 
