@@ -1,16 +1,16 @@
 ### Atom config and keymap (qwertz layout (german)) ###
 
-Git repository for [Atom Editor](https://atom.io/) configuration. Mostly used for python.
+Git repository for [Atom Editor](https://atom.io/) configuration.
 
 ## Installation ##
 
 Cloning of the git rep to right ~/.atom/
 
 ```
-    git clone
+    git clone git@github.com:mindpad/atom-config.git .atom
 ```
 
-Installation of the Atom Editor:
+Installing Atom Editor:
 
 ```
     wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
@@ -19,12 +19,11 @@ Installation of the Atom Editor:
     sudo apt-get install atom
 ```
 
-Installation of autopep8
+Configuring autopep8 - autocorrection for python.
 
 ```
     pip install pycodestyle
     pip install autopep8
-
 ```
 
 
