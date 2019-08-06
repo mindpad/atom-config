@@ -6,6 +6,10 @@
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "ff927d20-de47-493f-8a5c-7520a77d5c0c"
+  "linter-ui-default":
+    showPanel: true
   "python-autopep8":
     formatOnSave: true
     maxLineLength: 79
+  welcome:
+    showOnStartup: false
