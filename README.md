@@ -26,4 +26,8 @@ Configuring autopep8 - autocorrection for python.
     pip install autopep8
 ```
 
+Configuring clang-format - C++
 
+```
+    aptitude install clang-format
+```
