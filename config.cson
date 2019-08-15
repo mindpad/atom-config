@@ -6,6 +6,7 @@
     packagesWithKeymapsDisabled: []
     telemetryConsent: "no"
   editor:
+    fontSize: 15
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "ff927d20-de47-493f-8a5c-7520a77d5c0c"
