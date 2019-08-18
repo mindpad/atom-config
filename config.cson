@@ -2,6 +2,8 @@
   "atom-beautify":
     cpp:
       default_beautifier: "clang-format"
+  "clang-format":
+    formatCPlusPlusOnSave: true
   core:
     packagesWithKeymapsDisabled: []
     telemetryConsent: "no"
