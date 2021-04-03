@@ -15,8 +15,8 @@ Installing Atom Editor:
 ```
     wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
     sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
-    udo aptitude update
-    udo aptitude install atom
+    sudo aptitude update
+    sudo aptitude install atom
 ```
 
 Configuring autopep8 - autocorrection for python.
